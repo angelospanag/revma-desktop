@@ -2,7 +2,7 @@ from dataclasses import dataclass
 
 
 @dataclass
-class Podcast:
+class Episode:
     title: str
     link: str
     description: str
